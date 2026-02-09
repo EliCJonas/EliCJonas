@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have Claude Pro.
 
-[![EliCJonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliCJonas)](https://github.com/anuraghazra/github-readme-stats)
+![EliCJonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliCJonas)](https://github.com/anuraghazra/github-readme-stats)
