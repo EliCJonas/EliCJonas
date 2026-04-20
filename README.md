@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on packages for auro.
 - 🤔 I’m looking for help with anything really.
 - 💬 Ask me about Auro. XD
-- 📫 How to reach me: Leave an issue on any of my repositories.
+- 📫 How to reach me: Leave an issue on any of my repositories, or ping me on Newnet IRC at ecjonas.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have Claude Pro.
 -->
