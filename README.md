@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Auro. XD
 - 📫 How to reach me: Leave an issue on any of my repositories.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have Claude Pro.
+- ⚡ Fun fact: I hijacked Claude Code and use it with my OpenRouter free key.
 - 
 ![Stats](./profile/stats.svg)
